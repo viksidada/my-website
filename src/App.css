@@ -1,0 +1,17 @@
+.App {
+  color: blue;
+}
+
+.frontPage-header {
+  text-align: center;
+  /*border: 2px red;*/
+}
+
+.frontPage-buttons {
+  align-content: center;
+}
+
+.weather-home {
+
+  /*background-color: grey;*/
+}
